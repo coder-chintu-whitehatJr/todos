@@ -6,6 +6,6 @@
     <title>My Todo</title>
 </head>
 <body>
-    <h1><?php echo "This is a test page"; ?></h1>
+    <h1><?php echo "This is Welcome page"; ?></h1>
 </body>
 </html>
